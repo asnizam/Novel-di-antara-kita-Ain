@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Story - Nizam & Nurain</title>
+
+<style>
+body {
+    margin: 0;
+    background: #f5efe6;
+    color: #3d3028;
+    font-family: Georgia, serif;
+}
+
+.book {
+    max-width: 700px;
+    margin: auto;
+    padding: 25px;
+}
+
+.cover {
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cover h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.cover p {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.chapter {
+    background: #fffaf3;
+    padding: 35px 25px;
+    margin: 30px 0;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+.chapter h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.chapter p {
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+.next {
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+    padding: 12px 25px;
+    background: #3d3028;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.final {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.final h1 {
+    font-size: 38px;
+}
+
+.heart {
+    font-size: 50px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="book">
+
+<section class="cover">
+    <div class="heart">❤️</div>
+    <h1>Our Story</h1>
+    <p>A story about Nizam & Nurain</p>
+    <p>“Some stories begin unexpectedly...”</p>
+</section>
+
+<section class="chapter">
+    <h2>Chapter 1 — The Beginning</h2>
+
+    <p>
+    There was a time when I never imagined that someone could become
+    this important to me.
+    </p>
+
+    <p>
+    Then you came into my life, Nurain.
+    </p>
+
+    <p>
+    At first, I only wanted to know you. I wanted to be your friend,
+    someone you could talk to, someone who would be there when you needed
+    someone.
+    </p>
+
+    <p>
+    But slowly, something changed inside me.
+    </p>
+
+    <p>
+    I started looking forward to your messages.
+    I started smiling whenever I saw your name.
+    And without realizing it, I started caring about you more than I
+    planned to.
+    </p>
+</section>
+
+<section class="chapter">
+    <h2>Chapter 2 — When I Started Falling</h2>
+
+    <p>
+    I tried to tell myself that we were just friends.
+    </p>
+
+    <p>
+    But the heart doesn't always listen to what the mind says.
+    </p>
+
+    <p>
+    Every conversation made me feel closer to you.
+    Every little moment with you became something I wanted to remember.
+    </p>
+
+    <p>
+    And one day I finally realized...
+    </p>
+
+    <p style="text-align:center; font-size:24px;">
+    I was falling for you.
+    </p>
+</section>
+
+<section class="chapter">
+    <h2>Chapter 3 — You</h2>
+
+    <p>
+    Nurain, I don't know exactly when you became someone so special to me.
+    </p>
+
+    <p>
+    Maybe it happened through our conversations.
+    Maybe it happened through the little things you did.
+    </p>
+
+    <p>
+    But I know one thing.
+    </p>
+
+    <p>
+    I don't want this story to end here.
+    </p>
+</section>
+
+<section class="final">
+    <div class="heart">❤️</div>
+
+    <h1>Nurain...</h1>
+
+    <p style="font-size:22px;">
+    I wanted to ask you something.
+    </p>
+
+    <h1>Will You Marry Me?</h1>
+
+    <div class="heart">💍</div>
+
+    <p>
+    Love, Nizam
+    </p>
+</section>
+
+</div>
+
+</body>
+</html>
